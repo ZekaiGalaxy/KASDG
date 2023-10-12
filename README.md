@@ -34,14 +34,14 @@ We use the same evaluation metrics as the original paper. For `TCFC` evaluations
 
 ## Citation
 If you find our work useful in your research, please consider citing:
-
 ```
 ```
-
 ## Contact
 If you have any questions, please open a github issue or contact us:
 
 Zekai Zhang: justinzzk@stu.pku.edu.cn
+
+Jinpeng Li: lijinpeng@stu.pku.edu.cn
 
 
 
