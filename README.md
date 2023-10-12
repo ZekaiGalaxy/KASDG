@@ -30,8 +30,6 @@ conda activate kasdg
 * To predict or test with a trained model `python eval.py --load_path='your_model_path' --load_step==your_step --dataset='your_dataset'`
 
 ## Evaluation
-We provide our pretrained checkpoints through [Baidu NetDisk](https://pan.baidu.com/s/1_Bd-xpYm8txUQ9CoGyCqiQ?pwd=cwaz) or [Google Drive](https://drive.google.com/drive/folders/1_AGWVcz25nQt6KnfmffFsW9LUf8aE7oI?usp=sharing), please download them and move to `checkpoint/our_ckpt`. 
-
 We use the same evaluation metrics as the original paper. For `TCFC` evaluations, please refer to [this paper](https://github.com/silverriver/Stylized_Dialog/tree/main/TCFC). For `ArXiv&Holmes` evaluations, please refer to [this paper](https://github.com/golsun/StyleFusion). You can also use your own metrics to evaluate the performance.
 
 ## Citation
